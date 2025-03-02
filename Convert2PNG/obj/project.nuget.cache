@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nl1qJj0aGHY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kristupas\\Documents\\web\\Convert2PNG\\Convert2PNG\\Convert2PNG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kristupas\\.nuget\\packages\\magick.net-q16-x64\\14.5.0\\magick.net-q16-x64.14.5.0.nupkg.sha512",
+    "C:\\Users\\Kristupas\\.nuget\\packages\\magick.net.core\\14.5.0\\magick.net.core.14.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Convert to PNG]
+@="Convert file to PNG"
+
+[HKEY_CURRENT_USER\Software\Classes\*\shell\Convert to PNG\command]
+@="\"C:\\Program Files\\Convert2PNG\\Release\\net9.0-windows\\Convert2PNG.exe\" \"%1\""
